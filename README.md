@@ -364,8 +364,8 @@ support-ticket-analytics/
 │
 ├── README.md
 ├── Final RM_DF Dataset Masking.ipynb
-├── Redmine Freshdesk Dataset Masked.xlsx
-├── Support Ticket Dashboard.pbix
+├── Final Support Ticket Dashboard (Masked Data).pdf
+└── Final Support Ticket Dashboard (Masked Data).pbix
 ```
 
 > File and folder names may vary depending on the final repository organization.
